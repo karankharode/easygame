@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "614673914977",
+    "firebase_url": "https://easy-game-20253-default-rtdb.firebaseio.com",
+    "project_id": "easy-game-20253",
+    "storage_bucket": "easy-game-20253.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614673914977:android:45b93d554986ee13dc1e20",
+        "android_client_info": {
+          "package_name": "com.bt.easygame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614673914977-3k8j0dho932636mkm24o8gv5ne471jge.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bt.easygame",
+            "certificate_hash": "c2495c35f8d0c84094d7be62686aa129ac281e9c"
+          }
+        },
+        {
+          "client_id": "614673914977-6kst07lcjdk4fmvc83pf4fgebooqvj3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDib2tgGbrK1DDN2DhiP7fA3sfCMZAPg_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614673914977-6kst07lcjdk4fmvc83pf4fgebooqvj3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
